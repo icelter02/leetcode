@@ -16,4 +16,5 @@
 | 13 | [罗马数字转整数](https://leetcode.com/problems/roman-to-integer) | 2022年8月15日 | [13.cpp](https://github.com/icelter02/leetcode/blob/master/src/13.cpp) |
 | 28 | [实现 strStr()](https://leetcode.com/problems/implement-strstr) | 2022年8月15日 | [28.cpp](https://github.com/icelter02/leetcode/blob/master/src/28.cpp) |
 | \*31 | [下一个排列](https://leetcode.com/problems/next-permutation) | 2022年8月16日 | N\A |
+| 48 | [旋转图像](https://leetcode.com/problems/rotate-image) | 2022年8月30日 | [48.cpp](https://github.com/icelter02/leetcode/blob/master/src/48.cpp) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 2022年8月21日 | [50.cpp](https://github.com/icelter02/leetcode/blob/master/src/50.cpp) |
