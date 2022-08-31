@@ -1,7 +1,7 @@
 #### Leetcode 个人题解放置场
 这里存放了我个人解答Leetcode时使用的题解.
 
-截至2022年8月30日, 一共解答出10题, 其中7题为独立解答.
+截至2022年8月31日, 一共解答出12题, 其中8题为独立解答.
 
 注: 题号前带'*'代表本题的解答过程中参考了官方题解.
 
@@ -14,6 +14,7 @@
 | \*5 | [最长回文子串](https://leetcode.com/problems/longest-palindromic-substring/) | 2022年8月30日 | N\A |
 | 7 | [整数反转](https://leetcode.com/problems/reverse-integer) | 2022年8月16日 | [7.cpp](https://github.com/icelter02/leetcode/blob/master/src/7.cpp) |
 | 13 | [罗马数字转整数](https://leetcode.com/problems/roman-to-integer) | 2022年8月15日 | [13.cpp](https://github.com/icelter02/leetcode/blob/master/src/13.cpp) |
+| \*15 | [三数之和](https://leetcode.com/problems/3sum/) | 2022年8月31日 | N\A |
 | 28 | [实现 strStr()](https://leetcode.com/problems/implement-strstr) | 2022年8月15日 | [28.cpp](https://github.com/icelter02/leetcode/blob/master/src/28.cpp) |
 | \*31 | [下一个排列](https://leetcode.com/problems/next-permutation) | 2022年8月16日 | N\A |
 | 48 | [旋转图像](https://leetcode.com/problems/rotate-image) | 2022年8月30日 | [48.cpp](https://github.com/icelter02/leetcode/blob/master/src/48.cpp) |
