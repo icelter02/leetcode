@@ -2,7 +2,7 @@
 
 这里存放了我个人解答Leetcode时使用的题解.
 
-截至2022年9月1日, 一共解答出16题, 其中11题为独立解答.
+截至2022年9月2日, 一共解答出17题, 其中11题为独立解答.
 
 注: 题号前带'*'代表本题的解答过程中参考了官方题解.
 
@@ -10,9 +10,9 @@
 
 ## Season 1 (1 - 50)
 
-开始时间: 2022年9月11日
+开始时间: 2022年8月15日
 
-目前进度: 16/50 (11题为独立解答)
+目前进度: 17/50 (11题为独立解答)
 
 | 题目编号 | 题目名称 | 解答时间 | 题解代码 |
 | :-------: | :--------: | :-------: | :-------: |
@@ -25,6 +25,7 @@
 | 11 | [盛最多水的容器](https://leetcode.com/problems/container-with-most-water) | 2022年9月1日 | [11.cpp](https://github.com/icelter02/leetcode/blob/master/src/11.cpp) |
 | 13 | [罗马数字转整数](https://leetcode.com/problems/roman-to-integer) | 2022年8月15日 | [13.cpp](https://github.com/icelter02/leetcode/blob/master/src/13.cpp) |
 | \*15 | [三数之和](https://leetcode.com/problems/3sum) | 2022年8月31日 | N/A |
+| \*17 | [跳跃游戏 II](https://leetcode.com/problems/jump-game-ii) | 2022年9月2日 | N/A |
 | 21 | [合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists) | 2022年9月1日 | [21.cpp](https://github.com/icelter02/leetcode/blob/master/src/21.cpp) |
 | 28 | [实现 strStr()](https://leetcode.com/problems/implement-strstr) | 2022年8月15日 | [28.cpp](https://github.com/icelter02/leetcode/blob/master/src/28.cpp) |
 | \*31 | [下一个排列](https://leetcode.com/problems/next-permutation) | 2022年8月16日 | N/A |
