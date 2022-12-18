@@ -2,7 +2,7 @@
 
 这里存放了我个人解答Leetcode时使用的题解.
 
-截至2022年11月24日, 一共解答出27题, 其中共有22题为独立解答.
+截至2022年12月15日, 一共解答出28题, 其中共有23题为独立解答.
 
 注: 题号前带'*'代表本题的解答过程中参考了官方题解.
 
@@ -20,7 +20,7 @@
 | 13 | [罗马数字转整数](https://leetcode.com/problems/roman-to-integer) | 2022年8月15日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/13.cpp) |
 | 14 | [最长公共前缀](https://leetcode.com/problems/longest-common-prefix) | 2022年11月24日 | [Java](https://github.com/icelter02/leetcode/blob/master/src/14.java) |
 | \*15 | [三数之和](https://leetcode.com/problems/3sum) | 2022年8月31日 | N/A |
-| \*17 | [跳跃游戏 II](https://leetcode.com/problems/jump-game-ii) | 2022年9月2日 | N/A |
+| 17 | [电话号码的字母组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | 2022年12月15日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/17.cpp) |
 | 19 | [删除链表的倒数第 N 个结点](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | 2022年9月3日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/19.cpp) |
 | 20 | [有效的括号](https://leetcode.com/problems/valid-parentheses) | 2022年9月3日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/20.cpp) |
 | 21 | [合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists) | 2022年9月1日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/21.cpp) |
@@ -31,6 +31,7 @@
 | 36 | [有效的数独](https://leetcode.com/problems/valid-sudoku) | 2022年9月10日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/36.cpp) |
 | 41 | [缺失的第一个正数](https://leetcode.com/problems/first-missing-positive) | 2022年9月11日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/41.cpp) |
 | 42 | [接雨水](https://leetcode.com/problems/trapping-rain-water) | 2022年9月1日 | [ANSI-C](https://github.com/icelter02/leetcode/blob/master/src/42.c) |
+| \*45 | [跳跃游戏 II](https://leetcode.com/problems/jump-game-ii) | 2022年9月2日 | N/A |
 | 48 | [旋转图像](https://leetcode.com/problems/rotate-image) | 2022年8月30日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/48.cpp) |
 | \*49 | [字母异位词分组](https://leetcode.com/problems/group-anagrams) | 2022年9月1日 | N/A |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 2022年8月21日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/50.cpp) |
