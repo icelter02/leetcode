@@ -2,7 +2,7 @@
 
 这里存放了我个人解答Leetcode时使用的题解.
 
-截至2022年12月15日, 一共解答出28题, 其中共有23题为独立解答.
+截至2022年12月18日, 一共解答出28题, 其中共有23题为独立解答.
 
 注: 题号前带'*'代表本题的解答过程中参考了官方题解.
 
@@ -35,3 +35,4 @@
 | 48 | [旋转图像](https://leetcode.com/problems/rotate-image) | 2022年8月30日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/48.cpp) |
 | \*49 | [字母异位词分组](https://leetcode.com/problems/group-anagrams) | 2022年9月1日 | N/A |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | 2022年8月21日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/50.cpp) |
+| 51 | [N 皇后](https://leetcode.com/problems/n-queens/) | 2022年12月18日 | [C++](https://github.com/icelter02/leetcode/blob/master/src/51.cpp) |
